@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash icon: the i-Tube mark sized to fit the API 31+ circular
+     splash mask (content diagonal ~50 of the 66-unit inner circle). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- i-Tube stem -->
+    <path
+        android:fillColor="@color/flow_red"
+        android:pathData="M50 32h8v44h-8z" />
+    <!-- i-Tube dot -->
+    <path
+        android:fillColor="@color/flow_red"
+        android:pathData="M48 22h8v8h-8z" />
+</vector>
